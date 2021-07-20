@@ -1,3 +1,5 @@
+#Bankist App
+
 First web application from Udemy's JavaScript course.
 
 Functionality:
